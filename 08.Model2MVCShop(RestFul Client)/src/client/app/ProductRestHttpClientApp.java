@@ -34,7 +34,7 @@ public class ProductRestHttpClientApp {
 		
 //		System.out.println("\n====================================\n");
 //		// 1.1 Http Get 방식 Request : JsonSimple lib 사용
-//		ProductRestHttpClientApp.getProductTest_JsonSimple();	
+		ProductRestHttpClientApp.getProductTest_JsonSimple();	
 //		System.out.println("\n====================================\n");
 //		// 1.2 Http Get 방식 Request : CodeHaus lib 사용
 //		RestHttpClientApp.getProductTest_Codehaus();		
@@ -53,10 +53,10 @@ public class ProductRestHttpClientApp {
 //		ProductRestHttpClientApp.updateProductTest_Codehaus();	
 //		System.out.println("\n====================================\n");
 //		// 1.1 Http Get 방식 Request : JsonSimple lib 사용
-//		ProductRestHttpClientApp.getProductListTest_JsonSimple();
+		ProductRestHttpClientApp.getProductListTest_JsonSimple();
 //		System.out.println("\n====================================\n");
 //		// 1.1 Http Get 방식 Request : JsonSimple lib 사용
-		ProductRestHttpClientApp.getProductListTest_Codehaus();
+//		ProductRestHttpClientApp.getProductListTest_Codehaus();
 		
 	}
 	
